@@ -3,13 +3,13 @@
  
  ## Overview
  
- In 2021, there were a total of 3,837 entries into the Vanda and Young Songwriting Competition. Of these, forty (40) were selected as finalists.
+ In 2021, there were a total of <b>3,837</b> entries into the Vanda and Young Songwriting Competition. Of these, <b>forty (40)</b> were selected as finalists.
  
- Each song submission cost $50/entry, resulting in a total 2021 earnings of $191,850, $2,000 of which comprised of the finalists' entries.
+ Each song submission cost $50/entry, resulting in a total 2021 earnings of <b>$191,850</b>, <b>$2,000</b> of which comprised of the finalists' entries.
  
  ## Published vs. Unpublished finalists
  
- Of the forty (40) finalists, twenty-six (26) artists were already signed/published by a label, whereas fourteen (14) were unsigned/unpublished - resulting in a 65%/35% split between published/unpublished finalists (as seen below).
+ Of the forty (40) finalists, <b>twenty-six (26) artists were already signed/published</b> by a label, whereas <b>fourteen (14) were unsigned/unpublished</b> - resulting in a <b>65%/35% split between published/unpublished finalists</b> (as seen below).
  
  <p align="center">
   <img src="https://github.com/mnperic/vanda-and-young-finalists-2021/raw/main/Images/published_unpublished.png" alt="published_unpublished"/>
@@ -17,20 +17,20 @@
  
  As a result, a total of fourteen (14) unique labels/publishers comprised the finalists who were either signed/published. These included;
  
- * Universal (9 finalist entries)
- * Sony (8 finalist entries)
- * Mushroom (6 finalist entries)
- * Kobalt (7 finalist entries)
- * BMG (5 finalist entries)
- * Downtown (1 finalist entry)
- * Embassy (1 finalist entry)
- * Native Tongue (1 finalist entry)
- * Sentric (1 finalist entry)
- * Warner Chappell (1 finalist entry)
- * Gaga (1 finalist entry)
- * EMI (1 finalist entry)
- * Ourness Songs (1 finalist entry), and
- * Future Classic (1 finalist entry)
+ * Universal <i>(9 finalist entries)</i>
+ * Sony <i>(8 finalist entries)</i>
+ * Mushroom <i>(6 finalist entries)</i>
+ * Kobalt <i>(7 finalist entries)</i>
+ * BMG <i>(5 finalist entries)</i>
+ * Downtown <i>(1 finalist entry)</i>
+ * Embassy <i>(1 finalist entry)</i>
+ * Native Tongue <i>(1 finalist entry)</i>
+ * Sentric <i>(1 finalist entry)</i>
+ * Warner Chappell <i>(1 finalist entry)</i>
+ * Gaga <i>(1 finalist entry)</i>
+ * EMI <i>(1 finalist entry)</i>
+ * Ourness Songs <i>(1 finalist entry)</i>, and
+ * Future Classic <i>(1 finalist entry)</i>
 
 Of the fourteen (14) labels, their distribution across the forty (40) finalists varied;
 
@@ -44,18 +44,25 @@ As previously mentioned, the 2021 Vanda and Young Songwriting Competition genera
 
 As a result, this amount is relatively high when compared to previous years;
 
-* 2021 ($191,850)
-* 2020 ($203,050)
-* 2019 ($184,150)
-* 2018 ($203,000)
-* 2016 ($196,700)
-* 2014 ($170,000)
-* 2013 ($166,000)
-* 2011 ($70,000)
-* 2009 ($130,000)
-* Total ($1,514,750)
+<div align="center">
+ 
+Year |  Amount Raised   
+:---:  |  :---: 
+ 2021 | $191,850
+ 2020 | $203,050
+ 2019 | $184,150
+ 2018 | $203,000
+ 2016 | $196,700
+ 2014 | $170,000
+ 2013 | $166,000
+ 2011 | $70,000
+ 2009 | $130,000
+ TOTAL | $1,514,750
 
-Which, expressed in individually/annum:
+</div align>
+
+
+Which, expressed individually/annum:
 
  <p align="center">
   <img src="https://github.com/mnperic/vanda-and-young-finalists-2021/raw/main/Images/total_amounts_individual.png" alt="individual"/>
@@ -67,7 +74,7 @@ And cumulatively/annum:
   <img src="https://github.com/mnperic/vanda-and-young-finalists-2021/raw/main/Images/total_amounts_cumulative.png" alt="cumulative"/>
 </p>
 
-And the relationship between individually/annum and cumulatively/annum:
+And as a relationship between individually/annum and cumulatively/annum:
 
 <p align="center">
   <img src="https://github.com/mnperic/vanda-and-young-finalists-2021/raw/main/Images/total_amounts_combination.png" alt="comparison"/>
