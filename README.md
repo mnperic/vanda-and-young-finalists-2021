@@ -16,21 +16,29 @@
 </p>
  
  As a result, a total of fourteen (14) unique labels/publishers comprised the finalists who were either signed/published. These included;
+ <br></br>
  
- * Universal <i>(9 finalist entries)</i>
- * Sony <i>(8 finalist entries)</i>
- * Mushroom <i>(6 finalist entries)</i>
- * Kobalt <i>(7 finalist entries)</i>
- * BMG <i>(5 finalist entries)</i>
- * Downtown <i>(1 finalist entry)</i>
- * Embassy <i>(1 finalist entry)</i>
- * Native Tongue <i>(1 finalist entry)</i>
- * Sentric <i>(1 finalist entry)</i>
- * Warner Chappell <i>(1 finalist entry)</i>
- * Gaga <i>(1 finalist entry)</i>
- * EMI <i>(1 finalist entry)</i>
- * Ourness Songs <i>(1 finalist entry)</i>, and
- * Future Classic <i>(1 finalist entry)</i>
+ <div align="center">
+ 
+Label |  Number of Finalists   
+:---:  |  :---: 
+ Universal | 9
+ Sony | 8
+ Mushroom | 6
+ Kobalt | 7
+ BMG | 5
+ Downtown | 1
+ Embassy | 1
+ Native Tongue | 1
+ Sentric | 1
+ Warner Chappell | 1
+ Gaga | 1
+ Ourness Songs | 1
+ Future Classic | 1
+
+</div align>
+
+<br></br>
 
 Of the fourteen (14) labels, their distribution across the forty (40) finalists varied;
 
@@ -43,7 +51,7 @@ Of the fourteen (14) labels, their distribution across the forty (40) finalists 
 As previously mentioned, the 2021 Vanda and Young Songwriting Competition generated a total revenue of $191,850, comprised of 3,837 entrants at the entry price of $50/submission.
 
 As a result, this amount is relatively high when compared to previous years;
-
+<br></br>
 <div align="center">
  
 Year |  Amount Raised   
@@ -58,10 +66,9 @@ Year |  Amount Raised
  2011 | $70,000
  2009 | $130,000
  TOTAL | $1,514,750
-
+ 
 </div align>
-
-
+<br></br>
 Which, expressed individually/annum:
 
  <p align="center">
